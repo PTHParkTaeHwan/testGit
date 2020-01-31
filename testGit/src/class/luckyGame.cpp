@@ -1,5 +1,5 @@
 #include "luckyGame.h"
-#include "class/type.h"
+#include "type.h"
 class luckygame
 {
 public:
