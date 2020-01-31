@@ -1,6 +1,5 @@
 #include "luckyGame.h"
-#include<iostream>
-#include <time.h>
+#include "class/type.h"
 class luckygame
 {
 public:
