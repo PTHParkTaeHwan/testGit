@@ -25,6 +25,7 @@ project "testGit"
 	files
 	{
 		"%{prj.name}/src/**.h",
+		"%{prj.name}/src/**.cpp"
 	}
 	includedirs
 	{
