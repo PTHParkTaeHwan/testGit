@@ -1,5 +1,4 @@
 #pragma once
-#include <time.h>
 class luckyGame
 {
 	void init();
