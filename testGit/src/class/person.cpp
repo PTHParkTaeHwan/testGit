@@ -24,6 +24,7 @@ Item person::pop_Item(Item _item)
 
 void person::init()
 {
+
 	gold = 100;
 	inven.init();
 }
