@@ -9,5 +9,5 @@ int main() {
 	cout << "hello my teamjang" << endl;
 	cout << "HiHiHaHa" << endl;
 	cout << "HiHiHaHa" << endl;
-	cout << "Ç®¸®Äù¸¦ À§ÇÑ Å×½ºÆ®!" << endl;
+	cout << "í’€ë¦¬í€˜ë¥¼ ìœ„í•œ í…ŒìŠ¤íŠ¸!" << endl;
 }
