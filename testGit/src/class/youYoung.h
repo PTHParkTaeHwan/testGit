@@ -7,4 +7,6 @@ inline void something()
 	cout << " feature/momo 로고!" << endl;
 
 	cout << " 집에 간다!!!" << endl;
+
+	cout << "나도 간다!!!2" << endl;
 }
