@@ -13,6 +13,10 @@ public:
 		a = _a;
 	}
 
+	void conflict()
+	{
+		cout << " ���ø�Ʈ 2" << endl;
+	}
 private :
 	int a = 3;
 	int b;
