@@ -13,6 +13,10 @@ public:
 		a = _a;
 	}
 
+	void conflict()
+	{
+		cout << " 컴플릭트 2" << endl;
+	}
 private :
 	int a = 3;
 	int b;
