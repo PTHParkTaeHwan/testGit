@@ -15,9 +15,8 @@ public:
 
 	void conflict()
 	{
-		cout << "ÄÄÇÃ¸´Æ® 1" << endl;
+		cout << " ï¿½ï¿½ï¿½Ã¸ï¿½Æ® 2" << endl;
 	}
-
 private :
 	int a = 3;
 	int b;
