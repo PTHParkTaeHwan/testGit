@@ -13,6 +13,11 @@ public:
 		a = _a;
 	}
 
+	void conflict()
+	{
+		cout << "ÄÄÇÃ¸´Æ® 1" << endl;
+	}
+
 private :
 	int a = 3;
 	int b;
