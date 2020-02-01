@@ -8,4 +8,6 @@ int main() {
 
 	cout << "hello my teamjang" << endl;
 	cout << "HiHiHaHa" << endl;
+	
+	cout << "바이바이" << endl;
 }
