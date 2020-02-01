@@ -17,6 +17,9 @@ public:
 	{
 		cout << " ���ø�Ʈ 2" << endl;
 	}
+		cout << "���ø�Ʈ 1" << endl;
+	}
+
 private :
 	int a = 3;
 	int b;
