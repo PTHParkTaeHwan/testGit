@@ -3,10 +3,10 @@
 
 inline void something()
 {
-	cout << " ¾È³ç " << endl;
-	cout << " feature/momo ·Î°í!" << endl;
+	cout << " ï¿½È³ï¿½ " << endl;
+	cout << " feature/momo ï¿½Î°ï¿½!" << endl;
 
-	cout << " Áý¿¡ °£´Ù!!!" << endl;
+	cout << " ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½!!!" << endl;
 
-	cout << " ÀÌÁ¦ ÁøÂ¥ °¡°ÚÁö?1" << endl;
+	cout << "ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½!!!2" << endl;
 }
