@@ -4,4 +4,5 @@
 inline void something()
 {
 	cout << " ¾È³ç " << endl;
+	cout << " feature/momo ·Î°í!" << endl;
 }
