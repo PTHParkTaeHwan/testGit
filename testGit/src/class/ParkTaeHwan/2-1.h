@@ -24,5 +24,6 @@ pth2_1::~pth2_1()
 
 inline void pth2_1::ptrInit()
 {
+	cout << "init" << endl;
 }
 
