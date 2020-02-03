@@ -11,4 +11,8 @@ private:
 	std::vector<std::shared_ptr<Item>> vectorItem;
 	int sldjf;
 	float fuck;
+
+	float fuckyouyoungh;
+	float iloveyouyoungh;
+
 };
