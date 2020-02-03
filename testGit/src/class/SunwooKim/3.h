@@ -18,6 +18,8 @@ public:
 	float mass = 80;
 	string school = "sejong";
 	
+	string life = "생명연장중";
+
 private:
 
 
