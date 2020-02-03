@@ -15,6 +15,8 @@ public:
 	int age = 29;
 	void status() { cout << name; }
 
+	float mass = 80;
+	string school = "sejong";
 	
 private:
 
