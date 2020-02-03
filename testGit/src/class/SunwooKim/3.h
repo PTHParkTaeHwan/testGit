@@ -5,17 +5,17 @@ class sunwoo
 public:
 	sunwoo();
 	~sunwoo();
-
+	//const char* name;
+	int age = 29;
 	std::shared_ptr<Item> ptr;
 
 	std::vector<std::shared_ptr<Item>> _vPtr;
 
-	string name = "±è¼±¿ì";
+	string name = "ï¿½è¼±ï¿½ï¿½";
 	int age = 29;
 	void status() { cout << name; }
 
-	const char* name;
-	int age;
+	
 private:
 
 
