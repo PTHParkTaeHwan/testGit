@@ -1,4 +1,5 @@
 #include "class/type.h"
+#include <memory>
 #include "class/Inventory.h"
 #include "class/person.h"
 #include "class/Shop.h"
