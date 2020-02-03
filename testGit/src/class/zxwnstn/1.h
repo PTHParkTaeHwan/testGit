@@ -10,4 +10,5 @@ private:
 	int v;
 	std::vector<std::shared_ptr<Item>> vectorItem;
 	int sldjf;
+	float fuck;
 };
