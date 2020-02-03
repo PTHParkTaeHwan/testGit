@@ -9,5 +9,5 @@ private:
 	int a;
 	int v;
 	std::vector<std::shared_ptr<Item>> vectorItem;
-
+	int sldjf;
 };
