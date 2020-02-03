@@ -9,4 +9,5 @@ inline void something()
 	cout << " ���� ����!!!" << endl;
 
 	cout << "���� ����!!!2" << endl;
+	cout << "���� ����!!!4" << endl;
 }

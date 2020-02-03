@@ -12,3 +12,4 @@ int main() {
 	cout << "HiHiHaHa" << endl;
 	cout << "풀리퀘를 위한 테스트!" << endl;
 }
+}
