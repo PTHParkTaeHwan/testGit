@@ -10,8 +10,8 @@ public:
 
 	std::vector<std::shared_ptr<Item>> _vPtr;
 
-	name = "±è¼±¿ì";
-	age = 29;
+	string name = "±è¼±¿ì";
+	int age = 29;
 	void status() { cout << name; }
 
 	const char* name;
