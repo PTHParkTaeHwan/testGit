@@ -15,4 +15,8 @@ private:
 	float fuckyouyoungh;
 	float iloveyouyoungh;
 
+	void print() {
+		std::cout << "fuck you younghwan!" << std::endl;
+	}
+
 };
